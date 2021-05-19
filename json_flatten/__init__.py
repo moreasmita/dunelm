@@ -6,7 +6,7 @@ flatten_json_val = {}
 
 def flatten(json_data, prefix=''):
     # print(type(json_data))
-    # TODO: handle nested dictionary inside json values here
+    # handle nested dictionary inside json values here
     if type(json_data) is dict:
         for val in json_data:
             flatten(json_data[val], prefix + val + '.')
@@ -14,7 +14,7 @@ def flatten(json_data, prefix=''):
     elif type(json_data) is list:
         i = 0
         for val in json_data:
-            # TODO: handle dictionary inside list values here
+            # handle dictionary inside list values here
             if type(val) is dict:
                 for val_flt in val:
                     # print(val_flt)
@@ -73,7 +73,7 @@ search_keys = [
     "hierarchicalCategories.lvl3"]
 input_file = "input_data/product_example.json"
 
-# TODO: For file versioning add date here
+# For file versioning add date here
 now = datetime.now()
 date_now = now.strftime("%Y%m%d_%H%M%S")
 output_file = "output_data/product_example_flatten_{}.json".format(date_now)
