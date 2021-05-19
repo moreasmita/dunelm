@@ -1,0 +1,201 @@
+{
+  "agilityObjectId": 174290,
+  "attributes": {
+    "CutOffTimeForOrders": "23:59",
+    "DSVInStockLeadTime": "000",
+    "FormattedDimensions": {
+      "BoxDimensions": [
+        {
+          "height": 74,
+          "length": 224,
+          "quantity": 1,
+          "weight": 40,
+          "width": 192
+        }
+      ],
+      "NumberOfBoxes": 1
+    },
+    "MinimumDeliveryService": "N/A",
+    "SAPSupplierID": "FUL01",
+    "StockingType": "01",
+    "WebFulfilmentType": "WD",
+    "customCombined": {
+      "associatedColours": "Biscuit (Brown), Burgundy (Red), Lime (Green), Plum (Purple), Teal (Blue), Duck Egg (Blue), Grey, Ochre (Yellow), Khaki (Green)"
+    },
+    "feedProductBaseAttributeSet": {
+      "productCode": "1000033573"
+    },
+    "feedSkuBaseAttributeSet": {
+      "skuCode": "30123263"
+    },
+    "loadattrSkuAttributes": {
+      "colourGroup": "Brown"
+    },
+    "newDefiningAttributes": {
+      "newColour": "Biscuit (Brown)"
+    },
+    "newDescriptiveAttributes": {
+      "adminClearValue": "123",
+      "adminSkuClearValue": "53",
+      "newAvailableToBuy": "Yes",
+      "newBrand": "Dunelm",
+      "newCareInstructions": "Dry clean",
+      "newColourGroup": "Brown",
+      "newComposition": "100% polyester",
+      "newDepartment": "Cushions",
+      "newDiscoverMore": "None",
+      "newMaterial": "Polyester",
+      "newPackSize": "One cushion cover",
+      "newPpcCategory": "Decor &gt; Cushions &gt; Cushion Covers",
+      "newSizes": "Medium",
+      "newSizesAvailable": "43cm x 43cm",
+      "newStyle": "Plain",
+      "newType": "Cushion Covers",
+      "searchProductName": "Topaz Cushion Cover",
+      "searchRoom": "Living Room|Dining Room|Bedroom|Hallway|Children's Room|Office|Conservatory"
+    },
+    "objDunelmsku": {
+      "colourGroup": "Brown",
+      "skuCode": "30123263"
+    },
+    "other": {
+      "newProductLongDescription": "Designed with a subtle ribbed texture and a chenille effect, this soft cushion cover is available in a choice of colours and features a removable cover.\n\nThis cushion cover is suitable for a 45cm x 45cm insert.",
+      "productLongDescriptionWeb": "Available to purchase online today in a wide choice of colours, the Topaz Cushion Cover will add a luxurious touch to your seating arrangement.&lt;br /&gt;&lt;br /&gt;Bring an element of comfort to your sofa with this soft cushion cover&lt;br /&gt;&lt;br /&gt;Luxuriously soft to the touch, this square cushion cover simply needs to be filled with a cushion pad and will provide you with all the comfort and support you need when relaxing with a hot cup of tea. The sumptuously soft, chenille feel cushion cover is available in a range of colours so you can be sure to find the right one to suit your home decor, whether traditional or modern. Made from durable polyester, this chenille effect cover can be dry cleaned to make it look as good as new, should any nasty spills or accidents occur. Simple and elegant, our cushion cover is a great way to add luxury to your seating arrangement, and once your choice of filling is added you can be sure you will enjoy its comfort everyday. &lt;br /&gt;&lt;br /&gt;Please note: This product is subject to stock availability."
+    },
+    "primaryAttributes": {
+      "buyable": "Yes",
+      "displayed": "Yes",
+      "ean": "5054077847315",
+      "hideWws": "Y",
+      "lozenge1": "None",
+      "lozenge2": "None",
+      "lozenge3": "None",
+      "primaryWebCategory": "Cushion_Covers",
+      "productLongDescription": {
+        "formatted": "Designed with a subtle ribbed texture and a chenille effect, this soft cushion cover is available in a choice of colours and features a removable cover.\n\nThis cushion cover is suitable for a 45cm x 45cm insert.",
+        "raw": "Designed with a subtle ribbed texture and a chenille effect, this soft cushion cover is available in a choice of colours and features a removable cover.&lt;br /&gt;&lt;br /&gt;This cushion cover is suitable for a 45cm x 45cm insert."
+      },
+      "productName": "Topaz Cushion Cover",
+      "skuName": "Topaz Cushion Cover 43x43cm Biscuit",
+      "supplier": "Fullshire Ltd",
+      "unitOfMeasure": "Quantity"
+    },
+    "productDescriptiveAttributes": {
+      "AvailableToBuy": "Yes",
+      "Brand": "Dunelm",
+      "CareInstructions": "Dry clean",
+      "ColourGroup": "Brown",
+      "Composition": "100% polyester",
+      "Department": "Cushions",
+      "DiscoverMore": "None",
+      "Material": "Polyester",
+      "PackSize": "One cushion cover",
+      "PpcCategory": "Decor &gt; Cushions &gt; Cushion Covers",
+      "Sizes": "Medium",
+      "SizesAvailable": "43cm x 43cm",
+      "Style": "Plain",
+      "Type": "Cushion Covers",
+      "adminClearValue": "131",
+      "adminSkuClearValue": "34",
+      "searchProductName": "Topaz Cushion Cover",
+      "searchRoom": "Living Room|Dining Room|Bedroom|Hallway|Children's Room|Office|Conservatory"
+    },
+    "productProgressAttributes": {
+      "progressEnhancedDate": 0,
+      "progressImageRecievedDate": 0,
+      "progressImageUploadedDate": 0,
+      "progressInfoRecievedDate": 0,
+      "progressReviewedDate": 0
+    },
+    "skuDefiningAttributes": {
+      "colour": "Biscuit (Brown)"
+    },
+    "skuFulfilmentAttributes": {
+      "fulAdditionalDeliveryMethods": "Express",
+      "fulClickAndCollect": "Not available for C&C",
+      "fulDeliveryBlocker": "N",
+      "fulExtendedLeadTime": 5,
+      "fulExtendedLeadTimeAvailability": "N",
+      "fulHomeDeliveryMethod": "Standard NONPOD",
+      "fulStoreThreshold": 0,
+      "fulWarehouseThreshold": 0
+    },
+    "skuPriceAttributes": {
+      "priceCurrentEnddate": 0,
+      "priceCurrentStartdate": 0,
+      "priceLastExtractDate": 0,
+      "priceNextEnddate": 0,
+      "priceNextStartdate": 0
+    }
+  },
+  "attributes2": {},
+  "bundles": [],
+  "categories": [
+    "1000033573",
+    "All Cushions and Throws",
+    "Cushion Covers",
+    "Cushions & Beanbags",
+    "Cushions Covers Throws Sale",
+    "Cushions",
+    "Home and Furniture",
+    "Home Furnishings"
+  ],
+  "classification": {
+    "lvl0": "Cushions & Beanbags",
+    "lvl1": "Cushions & Beanbags > Cushion Covers"
+  },
+  "createdAt": 1408648292,
+  "environmentStage": "dunprod",
+  "eventType": "MODIFY",
+  "hierarchicalCategories": {
+    "lvl0": [
+      "Home and Furniture"
+    ],
+    "lvl1": [
+      "Home and Furniture > Home Furnishings"
+    ],
+    "lvl2": [
+      "Home and Furniture > Home Furnishings > All Cushions and Throws",
+      "Home and Furniture > Home Furnishings > Cushions"
+    ],
+    "lvl3": [
+      "Home and Furniture > Home Furnishings > Cushions > Cushion Covers",
+      "Home and Furniture > Home Furnishings > Cushions > Cushions Covers Throws Sale"
+    ]
+  },
+  "id": "30123263",
+  "media": {
+    "image": [
+      "30123263.jpg",
+      "1000033573_alt01.jpg",
+      "1000033573_alt02.jpg",
+      "1000033573_alt06.jpg",
+      "1000033573_main.jpg"
+    ]
+  },
+  "newClassification": true,
+  "objectID": "30123263",
+  "price": {
+    "createdAt": "2019-09-11 17:08:54",
+    "currency": "GBP",
+    "endDate": "253402300799",
+    "id": "9fc8b445-ec51-4f95-b60d-b6f267d67563",
+    "priceTaxed": 53,
+    "startDate": "1561334400",
+    "taxRate": 20,
+    "wasNowPriceTaxed": null
+  },
+  "priceRange": {
+    "max": 231,
+    "min": 32,
+    "wasNowMax": null,
+    "wasNowMin": null
+  },
+  "productId": "1000033573",
+  "productUrl": "topaz-cushion-cover-1000033573",
+  "psUpdatedAt": "2020-03-31T12:41:34.375Z",
+  "publishAt": 1561647693,
+  "sku": "30123263",
+  "skuCount": 10,
+  "updatedAt": 1585658116
+}

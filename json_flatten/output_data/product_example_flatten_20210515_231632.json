@@ -1,0 +1,19 @@
+{
+ "attributes.primaryAttributes.skuName": "Topaz Cushion Cover 43x43cm Biscuit",
+ "attributes.feedSkuBaseAttributeSet.skuCode": "30123263",
+ "attributes.primaryAttributes.productName": "Topaz Cushion Cover",
+ "attributes.feedProductBaseAttributeSet.productCode": "1000033573",
+ "attributes.primaryAttributes.supplier": "Fullshire Ltd",
+ "attributes.productDescriptiveAttributes.Brand": "Dunelm",
+ "attributes.primaryAttributes.ean": "5054077847315",
+ "attributes.FormattedDimensions.BoxDimensions.height": 74,
+ "attributes.FormattedDimensions.BoxDimensions.length": 224,
+ "attributes.FormattedDimensions.BoxDimensions.quantity": 1,
+ "attributes.FormattedDimensions.BoxDimensions.weight": 40,
+ "attributes.FormattedDimensions.BoxDimensions.width": 192,
+ "attributes.FormattedDimensions.NumberOfBoxes": 1,
+ "hierarchicalCategories.lvl0": "Home and Furniture",
+ "hierarchicalCategories.lvl1": "Home and Furniture > Home Furnishings",
+ "hierarchicalCategories.lvl2": "Home and Furniture > Home Furnishings > Cushions",
+ "hierarchicalCategories.lvl3": "Home and Furniture > Home Furnishings > Cushions > Cushions Covers Throws Sale"
+}
